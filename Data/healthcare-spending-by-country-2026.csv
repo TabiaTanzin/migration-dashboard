@@ -1,0 +1,187 @@
+"flagCode","country","HealthcareExpenditurePerCapita_2022","TotalHealthExpenditureRateAsPctOfGDP_2022"
+"US","United States",12473.79,16.57
+"NO","Norway",8693,8.14
+"LU","Luxembourg",6956,5.46
+"IS","Iceland",6400,8.57
+"IE","Ireland",6349.48,6.07
+"DK","Denmark",6332,9.5
+"CA","Canada",6207.18,11.15
+"DE","Germany",6191.04,12.65
+"SE","Sweden",5980,10.67
+"GB","United Kingdom",5138.64,11.34
+"KR","South Korea",3123.95,9.72
+"IT","Italy",3066,9
+"SI","Slovenia",2608,8.85
+"PT","Portugal",2586,10.62
+"EE","Estonia",1986.31,6.94
+"LT","Lithuania",1868,7.46
+"CL","Chile",1380.69,9
+"PL","Poland",1225,6.68
+"GE","Georgia",484,7.37
+"PH","Philippines",178,5.1
+"IN","India",,3.28
+"CN","China",,5.38
+"ID","Indonesia",,3.71
+"PK","Pakistan",,2.91
+"NG","Nigeria",,4.08
+"BR","Brazil",,9.89
+"BD","Bangladesh",,2.36
+"RU","Russia",,7.39
+"ET","Ethiopia",,3.21
+"MX","Mexico",,6.08
+"JP","Japan",,10.82
+"EG","Egypt",,4.61
+"CD","DR Congo",,3.79
+"VN","Vietnam",,4.59
+"IR","Iran",,5.77
+"TR","Turkey",,4.57
+"TZ","Tanzania",,3.36
+"TH","Thailand",,5.16
+"FR","France",,12.31
+"ZA","South Africa",,8.27
+"KE","Kenya",,4.55
+"MM","Myanmar",,5.63
+"CO","Colombia",,9.02
+"SD","Sudan",,2.84
+"UG","Uganda",,4.67
+"DZ","Algeria",,5.53
+"IQ","Iraq",,5.25
+"ES","Spain",,10.74
+"AR","Argentina",,9.71
+"AF","Afghanistan",,21.83
+"AO","Angola",,2.96
+"UA","Ukraine",,8.01
+"MA","Morocco",,5.74
+"UZ","Uzbekistan",,7.74
+"MZ","Mozambique",,9.05
+"MY","Malaysia",,4.38
+"GH","Ghana",,4.15
+"SA","Saudi Arabia",,5.97
+"PE","Peru",,6.15
+"MG","Madagascar",,3.5
+"CI","Ivory Coast",,3.13
+"CM","Cameroon",,3.82
+"NP","Nepal",,5.42
+"NE","Niger",,5.81
+"VE","Venezuela",,4.04
+"AU","Australia",,10.54
+"ML","Mali",,4.47
+"BF","Burkina Faso",,6.38
+"LK","Sri Lanka",,4.07
+"MW","Malawi",,7.41
+"ZM","Zambia",,6.62
+"TD","Chad",,5.19
+"KZ","Kazakhstan",,3.92
+"SN","Senegal",,4.35
+"GT","Guatemala",,6.9
+"RO","Romania",,6.48
+"NL","Netherlands",,11.29
+"EC","Ecuador",,8.29
+"KH","Cambodia",,7.53
+"ZW","Zimbabwe",,2.79
+"GN","Guinea",,3.76
+"BJ","Benin",,2.58
+"RW","Rwanda",,7.32
+"BI","Burundi",,9.1
+"BO","Bolivia",,8.16
+"SS","South Sudan",,5.86
+"TN","Tunisia",,6.97
+"HT","Haiti",,3.48
+"BE","Belgium",,11.04
+"DO","Dominican Republic",,4.92
+"JO","Jordan",,7.29
+"AE","United Arab Emirates",,5.31
+"HN","Honduras",,9.16
+"TJ","Tajikistan",,8.01
+"PG","Papua New Guinea",,2.32
+"CZ","Czechia",,9.49
+"AZ","Azerbaijan",,4.7
+"TG","Togo",,5.56
+"GR","Greece",,9.17
+"IL","Israel",,7.9
+"HU","Hungary",,7.38
+"AT","Austria",,12.1
+"CH","Switzerland",,11.8
+"SL","Sierra Leone",,8.55
+"BY","Belarus",,6.57
+"LA","Laos",,2.74
+"TM","Turkmenistan",,5.57
+"KG","Kyrgyzstan",,5.44
+"NI","Nicaragua",,9.68
+"PY","Paraguay",,8.03
+"BG","Bulgaria",,8.56
+"RS","Serbia",,10.01
+"CG","Republic of the Congo",,3.88
+"SV","El Salvador",,9.72
+"SG","Singapore",,5.57
+"LB","Lebanon",,10.06
+"LR","Liberia",,16.62
+"CF","Central African Republic",,9.07
+"OM","Oman",,4.37
+"FI","Finland",,10.25
+"MR","Mauritania",,4.12
+"SK","Slovakia",,7.75
+"NZ","New Zealand",,10.05
+"CR","Costa Rica",,7.57
+"KW","Kuwait",,5.78
+"PA","Panama",,9.68
+"HR","Croatia",,8.1
+"ER","Eritrea",,4.15
+"MN","Mongolia",,6.91
+"UY","Uruguay",,9.36
+"QA","Qatar",,2.89
+"NA","Namibia",,9.38
+"BA","Bosnia and Herzegovina",,9.56
+"MD","Moldova",,7.75
+"AM","Armenia",,12.34
+"GM","Gambia",,3.19
+"JM","Jamaica",,7.19
+"AL","Albania",,7.27
+"GA","Gabon",,2.71
+"BW","Botswana",,6.31
+"LS","Lesotho",,10.21
+"GW","Guinea-Bissau",,8.22
+"GQ","Equatorial Guinea",,3.4
+"LV","Latvia",,9.04
+"MK","North Macedonia",,8.52
+"BH","Bahrain",,4.27
+"TT","Trinidad and Tobago",,7.02
+"TL","Timor-Leste",,11.44
+"CY","Cyprus",,9.43
+"SZ","Eswatini",,7.04
+"MU","Mauritius",,6.39
+"DJ","Djibouti",,2.88
+"FJ","Fiji",,5.38
+"KM","Comoros",,6.34
+"SB","Solomon Islands",,4.76
+"GY","Guyana",,4.94
+"BT","Bhutan",,3.85
+"SR","Suriname",,5.68
+"ME","Montenegro",,10.55
+"MT","Malta",,10.58
+"MV","Maldives",,10.03
+"CV","Cape Verde",,6.9
+"BN","Brunei",,2.2
+"BZ","Belize",,4.98
+"BS","Bahamas",,7.14
+"VU","Vanuatu",,4.37
+"BB","Barbados",,8.09
+"ST","Sao Tome and Principe",,7.83
+"WS","Samoa",,6.8
+"LC","Saint Lucia",,6.21
+"KI","Kiribati",,14.81
+"SC","Seychelles",,5.26
+"GD","Grenada",,5.7
+"FM","Micronesia",,10.96
+"TO","Tonga",,6.27
+"VC","Saint Vincent and the Grenadines",,5.36
+"AG","Antigua and Barbuda",,5.85
+"AD","Andorra",,8.33
+"DM","Dominica",,6.5
+"KN","Saint Kitts and Nevis",,6.16
+"MC","Monaco",,3.68
+"MH","Marshall Islands",,12.55
+"SM","San Marino",,7.98
+"PW","Palau",,16.38
+"NR","Nauru",,13.06
+"TV","Tuvalu",,19.97

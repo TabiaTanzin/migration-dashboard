@@ -1,0 +1,193 @@
+"flagCode","country","EducationIndex_2023"
+"AU","Australia",1.01
+"IS","Iceland",0.99
+"FI","Finland",0.98
+"NZ","New Zealand",0.97
+"DE","Germany",0.96
+"GR","Greece",0.96
+"NO","Norway",0.96
+"BE","Belgium",0.95
+"SE","Sweden",0.95
+"DK","Denmark",0.95
+"GB","United Kingdom",0.94
+"NL","Netherlands",0.94
+"CH","Switzerland",0.93
+"IE","Ireland",0.92
+"SI","Slovenia",0.92
+"US","United States",0.91
+"CA","Canada",0.91
+"LT","Lithuania",0.91
+"LV","Latvia",0.91
+"AR","Argentina",0.9
+"PL","Poland",0.9
+"CZ","Czechia",0.9
+"EE","Estonia",0.9
+"GE","Georgia",0.89
+"KR","South Korea",0.88
+"HK","Hong Kong",0.88
+"SC","Seychelles",0.88
+"AE","United Arab Emirates",0.87
+"AT","Austria",0.87
+"CY","Cyprus",0.87
+"KN","Saint Kitts and Nevis",0.87
+"SA","Saudi Arabia",0.86
+"IL","Israel",0.86
+"SG","Singapore",0.86
+"HR","Croatia",0.86
+"ME","Montenegro",0.86
+"MT","Malta",0.86
+"TO","Tonga",0.86
+"JP","Japan",0.85
+"TR","Turkey",0.85
+"ES","Spain",0.85
+"CL","Chile",0.85
+"SK","Slovakia",0.85
+"FR","France",0.84
+"HU","Hungary",0.84
+"UY","Uruguay",0.84
+"LI","Liechtenstein",0.84
+"MH","Marshall Islands",0.84
+"PW","Palau",0.84
+"VC","Saint Vincent and the Grenadines",0.83
+"IT","Italy",0.82
+"LU","Luxembourg",0.82
+"AG","Antigua and Barbuda",0.82
+"KZ","Kazakhstan",0.81
+"PT","Portugal",0.81
+"BG","Bulgaria",0.81
+"BH","Bahrain",0.81
+"RS","Serbia",0.8
+"MD","Moldova",0.8
+"BY","Belarus",0.79
+"BB","Barbados",0.79
+"AD","Andorra",0.79
+"SM","San Marino",0.79
+"RU","Russia",0.78
+"RO","Romania",0.78
+"AM","Armenia",0.78
+"ZA","South Africa",0.77
+"BO","Bolivia",0.77
+"OM","Oman",0.77
+"GD","Grenada",0.77
+"KG","Kyrgyzstan",0.76
+"BS","Bahamas",0.76
+"IR","Iran",0.75
+"PE","Peru",0.75
+"CR","Costa Rica",0.75
+"MK","North Macedonia",0.75
+"TT","Trinidad and Tobago",0.75
+"UA","Ukraine",0.74
+"UZ","Uzbekistan",0.74
+"CU","Cuba",0.74
+"TM","Turkmenistan",0.74
+"AL","Albania",0.74
+"VN","Vietnam",0.73
+"TH","Thailand",0.73
+"AZ","Azerbaijan",0.73
+"PA","Panama",0.73
+"BA","Bosnia and Herzegovina",0.73
+"MU","Mauritius",0.73
+"FJ","Fiji",0.73
+"DM","Dominica",0.73
+"BR","Brazil",0.72
+"MY","Malaysia",0.72
+"LK","Sri Lanka",0.72
+"QA","Qatar",0.72
+"WS","Samoa",0.72
+"MX","Mexico",0.71
+"EC","Ecuador",0.71
+"SZ","Eswatini",0.71
+"CN","China",0.7
+"EG","Egypt",0.7
+"CO","Colombia",0.7
+"JO","Jordan",0.7
+"PS","Palestine",0.7
+"KW","Kuwait",0.7
+"TV","Tuvalu",0.7
+"PH","Philippines",0.69
+"PY","Paraguay",0.69
+"MN","Mongolia",0.69
+"BN","Brunei",0.69
+"DZ","Algeria",0.68
+"VE","Venezuela",0.68
+"TJ","Tajikistan",0.68
+"JM","Jamaica",0.68
+"LB","Lebanon",0.67
+"GA","Gabon",0.67
+"BW","Botswana",0.67
+"NR","Nauru",0.67
+"ID","Indonesia",0.66
+"TN","Tunisia",0.66
+"DO","Dominican Republic",0.65
+"NI","Nicaragua",0.65
+"LC","Saint Lucia",0.64
+"MA","Morocco",0.63
+"CG","Republic of the Congo",0.63
+"BZ","Belize",0.63
+"KI","Kiribati",0.63
+"LY","Libya",0.62
+"GQ","Equatorial Guinea",0.62
+"KE","Kenya",0.61
+"ZW","Zimbabwe",0.61
+"MV","Maldives",0.6
+"IN","India",0.59
+"SR","Suriname",0.59
+"TL","Timor-Leste",0.58
+"BD","Bangladesh",0.57
+"IQ","Iraq",0.57
+"NA","Namibia",0.57
+"KM","Comoros",0.57
+"VU","Vanuatu",0.57
+"TG","Togo",0.56
+"LS","Lesotho",0.56
+"BT","Bhutan",0.56
+"ST","Sao Tome and Principe",0.56
+"FM","Micronesia",0.56
+"NG","Nigeria",0.55
+"CD","DR Congo",0.55
+"GH","Ghana",0.55
+"ZM","Zambia",0.55
+"SV","El Salvador",0.55
+"AO","Angola",0.54
+"MM","Myanmar",0.53
+"UG","Uganda",0.53
+"NP","Nepal",0.53
+"HN","Honduras",0.53
+"CM","Cameroon",0.52
+"CV","Cape Verde",0.52
+"RW","Rwanda",0.51
+"SB","Solomon Islands",0.51
+"LR","Liberia",0.5
+"GT","Guatemala",0.49
+"PG","Papua New Guinea",0.49
+"CI","Ivory Coast",0.48
+"KH","Cambodia",0.48
+"HT","Haiti",0.48
+"LA","Laos",0.47
+"MZ","Mozambique",0.45
+"MW","Malawi",0.45
+"TZ","Tanzania",0.44
+"GW","Guinea-Bissau",0.42
+"MG","Madagascar",0.41
+"GM","Gambia",0.41
+"SY","Syria",0.4
+"BJ","Benin",0.4
+"YE","Yemen",0.39
+"BI","Burundi",0.39
+"AF","Afghanistan",0.38
+"MR","Mauritania",0.38
+"SD","Sudan",0.37
+"GN","Guinea",0.37
+"SL","Sierra Leone",0.37
+"ER","Eritrea",0.37
+"PK","Pakistan",0.36
+"SN","Senegal",0.35
+"SS","South Sudan",0.35
+"ET","Ethiopia",0.34
+"CF","Central African Republic",0.34
+"BF","Burkina Faso",0.32
+"TD","Chad",0.31
+"DJ","Djibouti",0.31
+"NE","Niger",0.28
+"SO","Somalia",0.27
+"ML","Mali",0.25

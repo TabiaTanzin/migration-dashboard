@@ -1,0 +1,177 @@
+"flagCode","country","WomenPeaceAndSecurityIndex_2023","WomensDangerIndexWDI_2019"
+"AF","Afghanistan",0.286,
+"YE","Yemen",0.287,
+"CF","Central African Republic",0.378,
+"CD","DR Congo",0.384,
+"SS","South Sudan",0.388,
+"BI","Burundi",0.394,
+"SY","Syria",0.407,
+"SZ","Eswatini",0.415,
+"SO","Somalia",0.417,
+"IQ","Iraq",0.424,
+"HT","Haiti",0.431,
+"NE","Niger",0.442,
+"MM","Myanmar",0.451,
+"SD","Sudan",0.46,
+"TD","Chad",0.462,
+"NG","Nigeria",0.465,
+"CM","Cameroon",0.466,
+"PK","Pakistan",0.481,
+"ML","Mali",0.481,
+"BF","Burkina Faso",0.481,
+"PS","Palestine",0.483,
+"GW","Guinea-Bissau",0.483,
+"PG","Papua New Guinea",0.487,
+"LR","Liberia",0.5,
+"DJ","Djibouti",0.504,
+"MG","Madagascar",0.505,
+"MR","Mauritania",0.506,
+"CG","Republic of the Congo",0.507,
+"KE","Kenya",0.511,
+"KM","Comoros",0.519,
+"ET","Ethiopia",0.521,
+"MW","Malawi",0.521,
+"GN","Guinea",0.539,
+"SL","Sierra Leone",0.543,
+"UG","Uganda",0.544,
+"MX","Mexico",0.551,576.05
+"ZM","Zambia",0.556,
+"IR","Iran",0.557,553.11
+"BJ","Benin",0.566,
+"SV","El Salvador",0.566,
+"GT","Guatemala",0.569,
+"CI","Ivory Coast",0.573,
+"GM","Gambia",0.575,
+"MZ","Mozambique",0.58,
+"CO","Colombia",0.582,
+"BD","Bangladesh",0.593,
+"GA","Gabon",0.593,
+"IN","India",0.595,541.25
+"TG","Togo",0.595,
+"LB","Lebanon",0.595,
+"AO","Angola",0.598,
+"ZW","Zimbabwe",0.604,
+"LS","Lesotho",0.605,
+"HN","Honduras",0.61,
+"LY","Libya",0.61,
+"NA","Namibia",0.61,
+"PH","Philippines",0.612,408.23
+"SN","Senegal",0.619,
+"GQ","Equatorial Guinea",0.619,
+"DZ","Algeria",0.622,
+"UA","Ukraine",0.626,453.61
+"VE","Venezuela",0.628,
+"BR","Brazil",0.63,624.28
+"MA","Morocco",0.637,542.75
+"NP","Nepal",0.644,
+"VU","Vanuatu",0.644,
+"EG","Egypt",0.645,546.91
+"KH","Cambodia",0.645,485.73
+"ST","Sao Tome and Principe",0.648,
+"GH","Ghana",0.651,
+"TZ","Tanzania",0.652,
+"EC","Ecuador",0.655,
+"BZ","Belize",0.657,
+"BW","Botswana",0.659,
+"RW","Rwanda",0.663,
+"TL","Timor-Leste",0.664,
+"SB","Solomon Islands",0.664,
+"TR","Turkey",0.665,521.83
+"DO","Dominican Republic",0.666,551.32
+"AZ","Azerbaijan",0.667,
+"TN","Tunisia",0.669,468.26
+"KG","Kyrgyzstan",0.673,
+"UZ","Uzbekistan",0.674,
+"MU","Mauritius",0.678,
+"JO","Jordan",0.679,
+"ZA","South Africa",0.688,771.82
+"TJ","Tajikistan",0.69,
+"PY","Paraguay",0.691,
+"PR","Puerto Rico",0.692,
+"SR","Suriname",0.694,
+"BO","Bolivia",0.696,
+"TO","Tonga",0.697,
+"CN","China",0.7,444.55
+"ID","Indonesia",0.7,442.1
+"BT","Bhutan",0.7,
+"IL","Israel",0.703,
+"QA","Qatar",0.703,
+"LA","Laos",0.704,
+"VN","Vietnam",0.707,449.65
+"JM","Jamaica",0.71,
+"WS","Samoa",0.711,
+"OM","Oman",0.715,
+"PE","Peru",0.717,
+"NI","Nicaragua",0.717,
+"MV","Maldives",0.72,
+"TT","Trinidad and Tobago",0.721,
+"KZ","Kazakhstan",0.729,
+"BY","Belarus",0.733,
+"CL","Chile",0.736,487.96
+"SA","Saudi Arabia",0.737,524.36
+"MY","Malaysia",0.738,527.64
+"FJ","Fiji",0.738,
+"CV","Cape Verde",0.738,
+"CY","Cyprus",0.739,
+"KW","Kuwait",0.742,
+"LK","Sri Lanka",0.743,
+"CR","Costa Rica",0.743,
+"UY","Uruguay",0.748,
+"TM","Turkmenistan",0.75,
+"RU","Russia",0.752,592.71
+"BH","Bahrain",0.752,476.09
+"BA","Bosnia and Herzegovina",0.754,
+"PA","Panama",0.757,
+"MD","Moldova",0.758,
+"TH","Thailand",0.764,533.22
+"GR","Greece",0.766,337.8
+"AR","Argentina",0.768,494.11
+"GY","Guyana",0.769,
+"AM","Armenia",0.772,
+"BB","Barbados",0.779,
+"MN","Mongolia",0.794,
+"AL","Albania",0.796,
+"MK","North Macedonia",0.798,
+"SC","Seychelles",0.799,
+"RO","Romania",0.8,
+"ME","Montenegro",0.808,
+"HK","Hong Kong",0.812,
+"GE","Georgia",0.812,
+"TW","Taiwan",0.818,
+"US","United States",0.823,456.31
+"SI","Slovenia",0.824,
+"BG","Bulgaria",0.826,380.84
+"IT","Italy",0.827,323.19
+"HU","Hungary",0.835,375.89
+"RS","Serbia",0.835,
+"MT","Malta",0.846,
+"KR","South Korea",0.848,366.98
+"SK","Slovakia",0.856,
+"ES","Spain",0.859,212.04
+"PL","Poland",0.859,291.23
+"GB","United Kingdom",0.86,296.85
+"HR","Croatia",0.862,286.53
+"FR","France",0.864,309.92
+"JP","Japan",0.866,366.2
+"AE","United Arab Emirates",0.868,450.66
+"DE","Germany",0.871,335.1
+"LV","Latvia",0.872,
+"PT","Portugal",0.877,277.58
+"CZ","Czechia",0.884,325.33
+"CA","Canada",0.885,290.83
+"LT","Lithuania",0.886,
+"SG","Singapore",0.887,245.26
+"IE","Ireland",0.892,247.31
+"EE","Estonia",0.892,
+"AU","Australia",0.902,370.1
+"BE","Belgium",0.902,372.88
+"NZ","New Zealand",0.904,
+"NL","Netherlands",0.908,302.81
+"AT","Austria",0.911,251.63
+"NO","Norway",0.92,259.92
+"FI","Finland",0.924,
+"LU","Luxembourg",0.924,
+"IS","Iceland",0.924,
+"SE","Sweden",0.926,326.42
+"CH","Switzerland",0.928,252.78
+"DK","Denmark",0.932,320.65

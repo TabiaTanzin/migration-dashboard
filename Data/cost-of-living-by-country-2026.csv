@@ -1,0 +1,140 @@
+"flagCode","country","CostOfLivingIndexViaNumbeo_2025","CostOfLivingCountryRentIndexViaNumbeo_2025","CostOfLivingPlusRentIndexViaNumbeo_2025"
+"CH","Switzerland",98.4,45.2,74.8
+"VI","United States Virgin Islands",98.4,46.4,75.4
+"IS","Iceland",83.4,43.7,65.9
+"BS","Bahamas",81.4,46.9,66.1
+"SG","Singapore",79.1,67,73.7
+"HK","Hong Kong",73.6,55.7,65.7
+"BB","Barbados",70,20.1,47.9
+"NO","Norway",69,24.8,49.4
+"PG","Papua New Guinea",67.4,36.6,53.7
+"DK","Denmark",66.9,25.7,48.6
+"GG","Guernsey",66.1,45.7,57.1
+"IL","Israel",65.2,27.1,48.3
+"US","United States",64.9,40.9,54.3
+"LU","Luxembourg",64.8,42.2,54.8
+"AU","Australia",60.9,29.8,47.1
+"AT","Austria",60.7,22,43.6
+"NL","Netherlands",60.5,32.1,47.9
+"IE","Ireland",59.8,39,50.6
+"GB","United Kingdom",59.2,30,46.3
+"CA","Canada",58.7,30.3,46.1
+"FI","Finland",58.7,19.1,41.1
+"PR","Puerto Rico",58.7,19.9,41.5
+"DE","Germany",58.4,22.4,42.4
+"FR","France",58,19.4,41
+"MO","Macau",56.8,10.8,44.6
+"KR","South Korea",56.5,15.1,38.2
+"BE","Belgium",56.5,19.3,40.1
+"NZ","New Zealand",55.3,23.4,41.2
+"SE","Sweden",54.2,19.1,38.7
+"AE","United Arab Emirates",54.1,39.7,47.8
+"IT","Italy",51,17.7,36.3
+"JM","Jamaica",50.3,17.7,35.9
+"CR","Costa Rica",50.1,18.5,36.1
+"CY","Cyprus",49.5,24,38.2
+"EE","Estonia",49.4,14.1,33.8
+"YE","Yemen",48.4,5.9,29.6
+"BH","Bahrain",48.3,20.4,36
+"MT","Malta",48,14.4,37.1
+"QA","Qatar",47.5,34.4,41.7
+"GR","Greece",46.5,11.8,31.1
+"UY","Uruguay",46.3,12.5,31.3
+"SI","Slovenia",46.2,18.9,34.1
+"JP","Japan",45.6,14.1,31.6
+"MV","Maldives",45.3,3.9,35
+"TW","Taiwan",44.4,13.1,30.5
+"BN","Brunei",44.4,,31.5
+"LT","Lithuania",44,14.4,30.9
+"PA","Panama",43.9,22.5,34.4
+"ES","Spain",43.5,21.2,33.6
+"LV","Latvia",43.4,10,28.6
+"ET","Ethiopia",43.2,15.7,31
+"HR","Croatia",43.2,14.5,30.5
+"CZ","Czechia",42.6,17.6,31.5
+"SK","Slovakia",42.1,14.1,29.7
+"SA","Saudi Arabia",41.9,11.5,28.4
+"BZ","Belize",41.4,11.6,28.2
+"PT","Portugal",41.2,22.2,32.8
+"CU","Cuba",40.8,11.6,27.9
+"KW","Kuwait",40.4,21.9,32.2
+"AL","Albania",39.9,11.7,27.4
+"OM","Oman",39.8,12,27.5
+"AM","Armenia",39.6,17.6,29.9
+"PS","Palestine",39.5,7.8,25.5
+"BW","Botswana",39.5,7.2,24.5
+"PL","Poland",38.9,16.1,28.8
+"MZ","Mozambique",38.9,13.2,27.5
+"CI","Ivory Coast",38.8,14.5,28
+"LB","Lebanon",38.8,13.6,27.7
+"SO","Somalia",38.7,3.5,23.1
+"SV","El Salvador",37.9,15.6,28
+"JO","Jordan",37.2,7.7,24.1
+"GT","Guatemala",36.8,12.6,26.1
+"HU","Hungary",36.6,11.1,25.3
+"ME","Montenegro",36.3,14.9,26.8
+"CM","Cameroon",36.2,17.2,27.8
+"VE","Venezuela",35.9,5.8,22.6
+"RS","Serbia",35.9,12.2,25.4
+"AR","Argentina",35.7,9.9,24.3
+"MU","Mauritius",35.6,42.2,24.1
+"BG","Bulgaria",35.4,10.1,24.2
+"CL","Chile",35.1,10.6,24.3
+"TR","Turkey",34.7,12.8,25
+"ZW","Zimbabwe",34.7,8.5,23.1
+"RW","Rwanda",34.6,8.2,22.9
+"HN","Honduras",34.6,10.2,23.8
+"MX","Mexico",34.5,14.1,25.4
+"DO","Dominican Republic",34.3,9.8,23.5
+"RO","Romania",34,9.6,23.2
+"KH","Cambodia",33.9,9.4,23
+"ZM","Zambia",33.8,9.8,23.1
+"TH","Thailand",33.7,11.9,24.1
+"LK","Sri Lanka",33.5,6.3,21.5
+"FJ","Fiji",32,15.6,24.8
+"TZ","Tanzania",31.8,8.8,21.6
+"MD","Moldova",30.8,12.6,22.7
+"CN","China",30.7,11.6,22.2
+"GH","Ghana",30.6,12.1,22.4
+"MN","Mongolia",30.6,14.3,23.4
+"GE","Georgia",30.4,12.8,22.6
+"MK","North Macedonia",30.3,6.8,19.9
+"ZA","South Africa",30,11.1,21.6
+"EC","Ecuador",30,8,20.3
+"MY","Malaysia",29.7,13.6,20.1
+"AZ","Azerbaijan",29.5,9,20.4
+"PE","Peru",29.4,9.2,20.5
+"NA","Namibia",29.3,11.4,21.4
+"PH","Philippines",28.8,6.9,19.1
+"KE","Kenya",28.2,7.6,19.1
+"MA","Morocco",27.2,7.1,18.3
+"IQ","Iraq",26.9,7.3,18.2
+"VN","Vietnam",26.6,9.2,18.9
+"KZ","Kazakhstan",26.6,10.5,19.4
+"NG","Nigeria",26.4,21.8,24.4
+"CO","Colombia",26,8.1,18.1
+"UG","Uganda",26,8.5,18.2
+"BR","Brazil",25.6,15.2,17.4
+"TN","Tunisia",25.5,4.6,16.3
+"KG","Kyrgyzstan",25.4,10.8,18.9
+"BO","Bolivia",25.2,6.1,17.7
+"BY","Belarus",25,8.7,17.8
+"ID","Indonesia",24.6,7.7,17.1
+"UA","Ukraine",24.6,7.8,17.1
+"DZ","Algeria",24.5,3.4,15.2
+"UZ","Uzbekistan",24.2,12,18.8
+"IR","Iran",23.6,8.5,16.9
+"SY","Syria",23.3,3.5,14.5
+"NP","Nepal",23,3,14.1
+"PY","Paraguay",23,8.6,16.6
+"RU","Russia",22.3,7.5,15.8
+"BD","Bangladesh",20.9,2.4,12.7
+"MG","Madagascar",20.7,10,13.5
+"AF","Afghanistan",19.9,2,12
+"IN","India",19.5,5,13.1
+"EG","Egypt",19,3.5,12.2
+"LY","Libya",18.6,3.9,12.1
+"PK","Pakistan",17.8,2.9,11.2
+"BA","Bosnia and Herzegovina",,,20.3
+"TT","Trinidad and Tobago",,,33.3
+"BM","Bermuda",,8.3,

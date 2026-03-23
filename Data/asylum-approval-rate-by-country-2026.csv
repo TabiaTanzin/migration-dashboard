@@ -1,0 +1,90 @@
+"flagCode","country","AsylumGrantRate_2023","AsylumDenialRate_2023","AsylumOtherRate_2023"
+"ER","Eritrea",77,18,5
+"BY","Belarus",75,7,18
+"ET","Ethiopia",66,7,27
+"MM","Myanmar",66,11,22
+"NP","Nepal",64,14,22
+"TJ","Tajikistan",63,7,30
+"RU","Russia",62,9,29
+"AF","Afghanistan",59,10,31
+"CM","Cameroon",59,15,27
+"AL","Albania",59,14,28
+"BD","Bangladesh",58,17,24
+"EG","Egypt",56,8,36
+"IR","Iran",56,9,35
+"CN","China",55,12,33
+"SD","Sudan",53,10,36
+"UG","Uganda",53,5,41
+"UZ","Uzbekistan",52,17,31
+"SY","Syria",52,16,32
+"GE","Georgia",51,8,41
+"KG","Kyrgyzstan",50,12,39
+"MD","Moldova",50,14,36
+"BI","Burundi",49,11,41
+"IQ","Iraq",47,12,41
+"AO","Angola",47,21,33
+"UA","Ukraine",47,3,49
+"IN","India",46,22,33
+"TR","Turkey",46,26,28
+"KZ","Kazakhstan",46,13,42
+"LY","Libya",45,24,32
+"GH","Ghana",44,14,42
+"GN","Guinea",44,18,38
+"CD","DR Congo",43,18,39
+"CI","Ivory Coast",42,7,50
+"BF","Burkina Faso",42,11,47
+"RW","Rwanda",42,18,40
+"AZ","Azerbaijan",42,18,40
+"CG","Republic of the Congo",42,10,48
+"MR","Mauritania",42,18,40
+"LK","Sri Lanka",40,8,52
+"TN","Tunisia",39,23,39
+"YE","Yemen",38,8,54
+"SO","Somalia",38,31,31
+"PK","Pakistan",36,18,46
+"NG","Nigeria",36,17,47
+"TZ","Tanzania",36,29,36
+"ID","Indonesia",35,11,54
+"PS","Palestine",34,11,55
+"VN","Vietnam",33,14,53
+"ML","Mali",33,11,56
+"TM","Turkmenistan",33,39,28
+"ZW","Zimbabwe",32,21,48
+"SL","Sierra Leone",31,20,49
+"BT","Bhutan",31,21,48
+"MA","Morocco",30,30,40
+"VE","Venezuela",28,12,60
+"LB","Lebanon",28,19,53
+"SN","Senegal",26,26,49
+"AM","Armenia",25,7,68
+"BJ","Benin",23,35,42
+"NI","Nicaragua",23,24,54
+"TG","Togo",22,20,59
+"KE","Kenya",21,19,61
+"MN","Mongolia",21,11,68
+"CO","Colombia",19,41,41
+"JO","Jordan",19,14,67
+"NE","Niger",17,11,72
+"TH","Thailand",16,19,65
+"GM","Gambia",15,21,64
+"PA","Panama",14,15,71
+"JM","Jamaica",14,37,49
+"GY","Guyana",14,14,72
+"PE","Peru",13,37,50
+"ZA","South Africa",11,51,38
+"RO","Romania",11,26,63
+"EC","Ecuador",11,34,56
+"BR","Brazil",10,34,56
+"BO","Bolivia",9,27,64
+"SV","El Salvador",9,14,77
+"CL","Chile",8,13,79
+"GT","Guatemala",8,15,77
+"HN","Honduras",7,19,74
+"BZ","Belize",6,26,68
+"DO","Dominican Republic",5,34,61
+"CU","Cuba",5,3,93
+"MX","Mexico",4,16,80
+"HT","Haiti",4,8,88
+"CR","Costa Rica",4,9,87
+"PH","Philippines",2,10,88
+,"Total",3019,,

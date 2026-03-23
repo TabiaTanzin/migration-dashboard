@@ -1,0 +1,196 @@
+"flagCode","country","GlobalPeaceIndex_2025","GlobalTerrorismIndex_2025","SafestCountriesIndexViaTravelSafe","RiskLevelByCountryViaTravelSafe","SafestCountriesRankUSNews_2024"
+"IS","Iceland",1.095,0.123,95,"Low",13
+"IE","Ireland",1.26,0.233,83,"Low",12
+"NZ","New Zealand",1.282,0.217,90,"Low",8
+"AT","Austria",1.294,0.582,92,"Low",4
+"CH","Switzerland",1.294,1.265,89,"Low",1
+"SG","Singapore",1.357,,90,"Low",19
+"PT","Portugal",1.371,,57,"Low",15
+"DK","Denmark",1.393,0.72,94,"Low",5
+"SI","Slovenia",1.409,,87,"Low",32
+"FI","Finland",1.42,0.949,86,"Low",7
+"CZ","Czechia",1.435,2.906,88,"Low",27
+"JP","Japan",1.44,0.949,83,"Low",16
+"MY","Malaysia",1.469,1.626,69,"Medium",44
+"CA","Canada",1.491,1.87,88,"Low",6
+"NL","Netherlands",1.491,1.402,75,"Low",11
+"BE","Belgium",1.492,1.347,70,"Low",10
+"HU","Hungary",1.5,,83,"Low",26
+"AU","Australia",1.505,1.973,86,"Low",9
+"HR","Croatia",1.519,,83,"Low",28
+"DE","Germany",1.533,4.748,85,"Medium",17
+"BT","Bhutan",1.536,,70,"Low",
+"LT","Lithuania",1.558,0.423,79,"Low",33
+"LV","Latvia",1.558,0.423,80,"Low",35
+"EE","Estonia",1.559,,82,"Low",36
+"ES","Spain",1.578,1.256,83,"Medium",21
+"MU","Mauritius",1.586,,80,"Low",
+"QA","Qatar",1.593,,84,"Low",24
+"SK","Slovakia",1.609,1.023,80,"Low",34
+"BG","Bulgaria",1.61,,80,"Low",37
+"GB","United Kingdom",1.634,2.639,77,"Low",18
+"KW","Kuwait",1.642,,66,"Low",41
+"NO","Norway",1.644,1.198,85,"Low",2
+"IT","Italy",1.662,0.929,77,"Medium",23
+"ME","Montenegro",1.685,,70,"Low",
+"SE","Sweden",1.709,1.842,83,"Low",3
+"PL","Poland",1.713,1.962,84,"Low",22
+"MN","Mongolia",1.719,,71,"Low",
+"VN","Vietnam",1.721,,73,"Low",55
+"RO","Romania",1.721,,80,"Low",40
+"TW","Taiwan",1.73,,54,"Low",
+"KR","South Korea",1.736,0.582,82,"Low",29
+"OM","Oman",1.738,2.927,76,"Low",42
+"BW","Botswana",1.743,,77,"Low",
+"TL","Timor-Leste",1.758,,48,"High",
+"GR","Greece",1.764,2.928,73,"Low",20
+"AR","Argentina",1.768,0.801,70,"Low",53
+"LA","Laos",1.783,,51,"Medium",
+"UY","Uruguay",1.784,0.059,77,"Low",56
+"ID","Indonesia",1.786,4.17,58,"Medium",51
+"NA","Namibia",1.789,,71,"Medium",
+"MK","North Macedonia",1.799,,55,"Low",
+"AE","United Arab Emirates",1.812,1.178,79,"Low",25
+"AL","Albania",1.812,,75,"Low",
+"CR","Costa Rica",1.843,,64,"Medium",48
+"GM","Gambia",1.855,,69,"Medium",
+"KZ","Kazakhstan",1.875,,72,"Low",65
+"SL","Sierra Leone",1.887,,50,"Medium",
+"AM","Armenia",1.893,0.72,60,"Low",
+"MG","Madagascar",1.895,,49,"Medium",
+"BA","Bosnia and Herzegovina",1.895,1.218,48,"Low",
+"GH","Ghana",1.898,,73,"Medium",70
+"CL","Chile",1.899,5.162,79,"Medium",57
+"ZM","Zambia",1.914,,52,"Medium",
+"RS","Serbia",1.914,0.582,77,"Medium",66
+"MD","Moldova",1.918,,67,"Medium",
+"UZ","Uzbekistan",1.926,0.233,40,"Medium",71
+"CY","Cyprus",1.933,0.347,75,"Low",31
+"SN","Senegal",1.936,1.578,45,"High",
+"LR","Liberia",1.939,,45,"Medium",
+"MW","Malawi",1.955,,,,
+"JO","Jordan",1.957,2.913,53,"Medium",49
+"TZ","Tanzania",1.965,1.573,,,
+"FR","France",1.967,2.712,64,"Medium",30
+"PY","Paraguay",1.981,0.073,45,"Low",
+"AO","Angola",1.987,1.657,48,"High",
+"NP","Nepal",1.987,1.113,59,"Medium",
+"KG","Kyrgyzstan",1.988,,38,"Medium",
+"DO","Dominican Republic",1.996,,54,"Medium",60
+"TJ","Tajikistan",1.996,0.999,38,"Medium",
+"TN","Tunisia",1.998,2.184,53,"Medium",58
+"GQ","Equatorial Guinea",2.004,,68,"Medium",
+"BO","Bolivia",2.005,,57,"Low",
+"PA","Panama",2.006,,65,"Medium",61
+"MA","Morocco",2.012,,54,"Medium",45
+"TH","Thailand",2.017,4.63,48,"Medium",46
+"KH","Cambodia",2.019,0.423,68,"Low",76
+"TM","Turkmenistan",2.019,,42,"Medium",
+"TT","Trinidad and Tobago",2.02,,43,"High",
+"SA","Saudi Arabia",2.035,0.845,46,"Medium",39
+"RW","Rwanda",2.036,,37,"Low",
+"DZ","Algeria",2.042,2.415,44,"Medium",64
+"JM","Jamaica",2.047,,55,"Medium",
+"CI","Ivory Coast",2.066,1.454,37,"Medium",
+"AZ","Azerbaijan",2.067,0.233,51,"Medium",59
+"PE","Peru",2.073,2.062,50,"Medium",50
+"LK","Sri Lanka",2.075,,60,"Medium",73
+"CN","China",2.093,1.863,66,"Medium",54
+"SZ","Eswatini",2.094,0.087,47,"Medium",
+"BH","Bahrain",2.099,0.059,46,"Low",38
+"GW","Guinea-Bissau",2.112,,36,"Medium",
+"CU","Cuba",2.123,,47,"Medium",
+"CG","Republic of the Congo",2.132,,54,"Medium",
+"SV","El Salvador",2.136,,50,"Medium",67
+"PH","Philippines",2.148,5.166,47,"Medium",62
+"GY","Guyana",2.149,,43,"Medium",
+"EG","Egypt",2.157,4.416,38,"Medium",52
+"GT","Guatemala",2.174,,54,"Medium",74
+"GE","Georgia",2.185,,63,"Low",
+"MR","Mauritania",2.204,,35,"High",
+"NI","Nicaragua",2.207,,46,"Medium",
+"BJ","Benin",2.211,4.802,45,"Medium",
+"UG","Uganda",2.217,3.702,49,"Medium",
+"ZW","Zimbabwe",2.223,,53,"Medium",69
+"IN","India",2.229,6.411,47,"Medium",82
+"PG","Papua New Guinea",2.23,,47,"Medium",
+"GA","Gabon",2.238,,45,"High",
+"GN","Guinea",2.253,,39,"Medium",
+"BY","Belarus",2.267,0.233,77,"Low",78
+"LS","Lesotho",2.267,,47,"Medium",
+"MZ","Mozambique",2.273,6.251,46,"High",
+"DJ","Djibouti",2.276,1.461,38,"Medium",
+"BD","Bangladesh",2.318,3.03,49,"Medium",75
+"ZA","South Africa",2.347,,48,"Medium",83
+"HN","Honduras",2.347,,49,"Medium",63
+"TG","Togo",2.381,5.004,69,"Medium",
+"KE","Kenya",2.392,5.366,45,"Medium",72
+"US","United States",2.443,3.517,68,"Low",47
+"EC","Ecuador",2.459,1.55,55,"Low",79
+"BR","Brazil",2.472,1.43,52,"Medium",85
+"LY","Libya",2.478,1.612,21,"High",
+"ER","Eritrea",2.542,,32,"Medium",
+"BI","Burundi",2.574,4.043,30,"High",
+"TD","Chad",2.593,5.032,32,"High",
+"MX","Mexico",2.636,0.582,65,"Medium",81
+"LB","Lebanon",2.674,1.237,35,"High",87
+"CM","Cameroon",2.683,6.944,36,"High",84
+"ET","Ethiopia",2.688,0.787,41,"High",
+"VE","Venezuela",2.692,0.71,33,"High",
+"CO","Colombia",2.695,6.381,42,"Medium",86
+"HT","Haiti",2.731,,42,"High",
+"IR","Iran",2.75,6.056,35,"High",77
+"NE","Niger",2.759,7.776,37,"High",
+"PK","Pakistan",2.797,8.374,26,"High",
+"PS","Palestine",2.811,4.93,,,
+"TR","Turkey",2.852,3.968,45,"Medium",43
+"IQ","Iraq",2.862,6.582,14,"High",
+"NG","Nigeria",2.869,7.658,33,"Medium",
+"KP","North Korea",2.911,,21,"High",
+"CF","Central African Republic",2.912,0.957,32,"High",
+"SO","Somalia",2.983,7.614,16,"High",
+"BF","Burkina Faso",3.016,8.581,41,"Medium",
+"MM","Myanmar",3.045,6.929,39,"Medium",68
+"ML","Mali",3.061,7.907,31,"High",
+"IL","Israel",3.108,7.463,60,"Medium",88
+"SS","South Sudan",3.117,,10,"High",
+"SY","Syria",3.184,8.006,10,"High",
+"AF","Afghanistan",3.229,7.262,14,"High",
+"YE","Yemen",3.262,5.08,10,"High",
+"CD","DR Congo",3.292,6.768,21,"High",
+"SD","Sudan",3.323,,55,"High",
+"UA","Ukraine",3.434,2.003,30,"High",89
+"RU","Russia",3.441,6.267,34,"High",80
+"PR","Puerto Rico",,,34,"Medium",
+"FJ","Fiji",,,70,"Low",
+"LU","Luxembourg",,,74,"Low",14
+"SR","Suriname",,,62,"Medium",
+"MT","Malta",,,78,"Low",
+"MV","Maldives",,,46,"Low",
+"BN","Brunei",,,80,"Low",
+"BZ","Belize",,,43,"Medium",
+"BS","Bahamas",,,49,"Low",
+"VU","Vanuatu",,,70,"Low",
+"PF","French Polynesia",,,92,"Low",
+"BB","Barbados",,,80,"Low",
+"WS","Samoa",,,70,"Low",
+"CW","Curacao",,,80,"Low",
+"LC","Saint Lucia",,,70,"Low",
+"SC","Seychelles",,,80,"Low",
+"GD","Grenada",,,80,"Low",
+"AW","Aruba",,,90,"Low",
+"TO","Tonga",,,70,"Low",
+"KY","Cayman Islands",,,50,"Medium",
+"DM","Dominica",,,80,"Low",
+"BM","Bermuda",,,90,"Low",
+"GL","Greenland",,,80,"Low",
+"KN","Saint Kitts and Nevis",,,70,"Low",
+"GI","Gibraltar",,,90,"Low",
+"LI","Liechtenstein",,,89,"Low",
+"VG","British Virgin Islands",,,89,"Low",
+"MC","Monaco",,,88,"Low",
+"PW","Palau",,,80,"Low",
+"AI","Anguilla",,,70,"Low",
+"NR","Nauru",,,80,"Low",
+"MS","Montserrat",,,70,"Low",
+,"Average",2.0894382716049376,,,,
